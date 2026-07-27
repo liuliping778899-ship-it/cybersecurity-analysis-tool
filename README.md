@@ -1,4 +1,4 @@
-#cybersecurity-analysis-tool
+
 # Cybersecurity Analysis Tool
 
 ## Student Information
