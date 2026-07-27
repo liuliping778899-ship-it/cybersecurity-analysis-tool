@@ -1,1 +1,1 @@
-# -cybersecurity-analysis-tool
+# cybersecurity-analysis-tool
